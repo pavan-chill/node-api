@@ -1,6 +1,5 @@
 # Node.js Express & MongoDB: CRUD Rest APIs
 
-#First line edit from dev branch
 #Second line edit from dev branch
 #Third line edit from dev branch
 
